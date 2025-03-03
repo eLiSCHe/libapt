@@ -11,6 +11,16 @@ libapt documentation
    :caption: Contents:
 
    usage
+   apt
+   cache
+   deb
+   download
+   generator
+   pool
+   release
+   signature
+   stanza
+   version
    indices
 
 .. automodule:: libapt
