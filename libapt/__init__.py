@@ -20,4 +20,4 @@ The primary API is Pool from libapt.pool.
 The primary data structure for configuring APT repositories is AptConfig from libapt.apt.
 """
 
-__version__ = "1.0.0"
+__version__ = "1.0.1"

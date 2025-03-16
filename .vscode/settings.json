@@ -30,7 +30,10 @@
         "dbus",
         "Uploaders",
         "Darcs",
-        "srcs"
+        "srcs",
+        "imghdr",
+        "deepdiff",
+        "snakeviz"
     ],
     "editor.formatOnSave": true,
 	"[python]": {
